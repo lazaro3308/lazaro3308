@@ -1,12 +1,14 @@
-## Olá! Eu sou o Lazaro 👋
+## Olá, eu sou o Lázaro 👋
 
-### 🚀 Sobre mim
+### Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e programação, com foco em criar soluções eficientes e bem estruturadas. Estou constantemente aprendendo e evoluindo como desenvolvedor, buscando sempre as melhores práticas e tecnologias do mercado.
+Desenvolvedor em formação com foco em **desenvolvimento web** e **programação**. Busco construir soluções limpas, funcionais e bem estruturadas, sempre aplicando as melhores práticas de cada tecnologia.
+
+Atualmente estudo e desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, **React**, **Python** e **Java**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,29 +20,25 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, com foco em cria
 
 ---
 
-### 💡 Habilidades
+### Projetos Destacados
 
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Python, Java
-- **Ferramentas:** Git, GitHub, VS Code
-- **Outros:** Banco de Dados SQL, Desenvolvimento Web Responsivo
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Biblioteca-Adimin](https://github.com/lazaro3308/Biblioteca-Adimin) | Sistema de gerenciamento de biblioteca com painel administrativo | React, JavaScript |
+| [Site-De-Aluguel-de-carros](https://github.com/lazaro3308/Site-De-Aluguel-de-carros) | Site de aluguel de carros com catálogo e formulário de reserva | HTML, CSS, JavaScript |
+| [Meu-Ste-2.0.4](https://github.com/lazaro3308/Meu-Ste-2.0.4) | Site institucional com páginas de produtos e contato | HTML, CSS |
+| [HealthHub](https://github.com/lazaro3308/HealthHub) | Plataforma web de saúde com interface moderna e responsiva | HTML, CSS, JavaScript |
+| [Projeto-Vite](https://github.com/lazaro3308/Projeto-Vite) | Projeto web com React e Vite para build rápido | React, Vite |
+| [Banco-de-Dados-SQL](https://github.com/lazaro3308/Banco-de-Dados-SQL) | Estudos práticos em SQL com consultas e manipulação de dados | SQL, MySQL |
 
 ---
 
-### 📨 Conecte-se comigo
+### Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazaro3308)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro3308)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazaro3308@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunoproz2025l@gmail.com)
 
 ---
-
-### 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaro3308&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaro3308&layout=compact&theme=radical)
-
----
-
-*A programação é a arte de dizer a outra pessoa o que você quer que o computador faça.* — Donald Knuth
