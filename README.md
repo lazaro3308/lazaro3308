@@ -40,5 +40,3 @@ Atualmente estudo e desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, *
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alunoproz2025l@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaro3308&show_icons=true&theme=radical)
