@@ -24,7 +24,7 @@ Atualmente estudo e desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, *
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [SmartDesk](https://github.com/SEU-USUARIO/SmartDesk) | Classificador inteligente de chamados técnicos com IA | PHP, Hugging Face, BART-large-MNLI
+| [SmartDesk](https://github.com/lazaro3308/SmartDesk) | Classificador inteligente de chamados técnicos com IA | PHP, Hugging Face, BART-large-MNLI
 | [Biblioteca-Adimin](https://github.com/lazaro3308/Biblioteca-Adimin) | Sistema de gerenciamento de biblioteca com painel administrativo | React, JavaScript |
 | [Site-De-Aluguel-de-carros](https://github.com/lazaro3308/Site-De-Aluguel-de-carros) | Site de aluguel de carros com catálogo e formulário de reserva | HTML, CSS, JavaScript |
 | [Meu-Ste-2.0.4](https://github.com/lazaro3308/Meu-Ste-2.0.4) | Site institucional com páginas de produtos e contato | HTML, CSS |
