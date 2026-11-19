@@ -24,7 +24,6 @@ Atualmente estudo e desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, *
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [TCC-G-TECH](https://github.com/lazaro3308/TCC-G--TECH) | Classificador inteligente de chamados técnicos com IA | PHP, Hugging Face, BART-large-MNLI
 | [Biblioteca-Adimin](https://github.com/lazaro3308/Biblioteca-Adimin) | Sistema de gerenciamento de biblioteca com painel administrativo | React, JavaScript |
 | [SmartDesk](https://github.com/lazaro3308/SmartDesk) | Classificador inteligente de chamados técnicos com IA | PHP, Hugging Face, BART-large-MNLI
 | [Meu-Ste-2.0.4](https://github.com/lazaro3308/Meu-Ste-2.0.4) | Site institucional com páginas de produtos e contato | HTML, CSS |
